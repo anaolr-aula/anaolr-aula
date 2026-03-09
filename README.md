@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👩‍💻 Ana Beatriz Freitas
 
-<!--
-**anaolr-aula/anaolr-aula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Desenvolvimento de Sistemas pelo SENAI e Aprendiz de TI na Petrobras.
 
-Here are some ideas to get you started:
+Este repositório reúne exercícios, atividades práticas e projetos desenvolvidos durante meus estudos em programação e desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Áreas de Estudo
+
+- Lógica de Programação
+- Desenvolvimento Web
+- JavaScript
+- Java
+- Banco de Dados
+- Estruturas básicas de software
+
+## 🛠 Tecnologias utilizadas
+
+- HTML
+- CSS
+- JavaScript
+- Java
+- MySQL
+- Spring Boot
+- Git e GitHub
+
+## 📂 Organização
+
+Os repositórios estão organizados de acordo com as disciplinas e conteúdos estudados durante o curso técnico.
+
+## 🎯 Objetivo
+
+Utilizar este espaço para registrar minha evolução como desenvolvedora, documentando exercícios, práticas de programação e aprendizados ao longo da minha formação.
+
+## 🔗 Outros links
+
+GitHub de projetos:  
+https://github.com/anaolr
+
+LinkedIn:  
+https://www.linkedin.com/in/anabeatriz-freitas/
